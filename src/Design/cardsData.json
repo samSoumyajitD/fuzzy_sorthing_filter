@@ -1,0 +1,52 @@
+[
+    { 
+        "id": 1, 
+        "projectType": "projtype1",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "title": "Reading Rooms", 
+        "content": "Creating spaces that ignite curiosity and foster inclusive learning for rural children. Our 310 sq ft reading room offers a haven for young readers, equipped with 1000 books, workstations, and optimal lighting", 
+        "date": "2024",
+        "imgUrl": "https://unsplash.it/200/200" 
+    },
+    { 
+        "id": 2, 
+        "projectType": "projtype1",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "title": "Restroom Stalls", 
+        "content": "Building child-friendly restroom stalls at Kith n Kin School, Auraiya, for a safer, comfortable, and hygienic experience. Each stall features age-appropriate design, durability, and eco-friendly practices.", 
+        "date": "2024",
+        "imgUrl": "https://unsplash.it/201/200" 
+    },
+    { 
+        "id": 3,
+        "projectType": "projtype1",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "title": "Grid Design for Optimal Learning", 
+        "content": "Our modular grid units feature expandable semi-open spaces, fostering versatility for classrooms, labs, and play areas. Tailored to a rural infrastructure, this design ensures sustainable and scalable solutions for learning environments.", 
+        "date": "2023",
+        "imgUrl": "https://unsplash.it/200/201" 
+    },
+    { 
+        "id": 4, 
+        "projectType": "projtype2",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "title": "Pavilion School", 
+        "content": "Reimagining education with scattered enclosed spaces around a central street, fostering social interaction and modular flexibility.",
+        "date": "2022", 
+        "imgUrl": "https://unsplash.it/201/201" 
+    },
+    { 
+        "id": 5, 
+        "projectType": "projtype2",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "title": "School as a Street", 
+        "content": "Our innovative design concept features modular classrooms, interactive elements, and eco-friendly systems to enhance learning environments and community engagement.", 
+        "date": "2021",
+        "imgUrl": "https://unsplash.it/202/200" 
+    }
+]  
